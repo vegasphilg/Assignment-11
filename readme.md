@@ -45,6 +45,7 @@ Re-Create An Etsy Page - https://www.etsy.com/search?q=whiskey
 
 ## Resources
 
-1. [Etsy API Documentation](https://www.etsy.com/developers/documentation/reference/listing)
-2. [Etsy Payload Example](https://api.etsy.com/v2/listings/active?api_key=h9oq2yf3twf4ziejn10b717i&keywords=whiskey&includes=Images,Shop)
-3. [Etsy Page Example](https://www.etsy.com/search?q=whiskey)
+1. [Mustache Templates](https://github.com/janl/mustache.js)
+2. [Etsy API Documentation](https://www.etsy.com/developers/documentation/reference/listing)
+3. [Etsy Payload Example](https://api.etsy.com/v2/listings/active?api_key=h9oq2yf3twf4ziejn10b717i&keywords=whiskey&includes=Images,Shop)
+4. [Etsy Page Example](https://www.etsy.com/search?q=whiskey)
